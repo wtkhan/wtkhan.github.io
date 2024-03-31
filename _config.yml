@@ -1,4 +1,20 @@
+# Site information
 theme: jekyll-theme-minimal
 title: Dirty Chai
 description: A page on the World Wahid Web
 show_downloads: false
+baseurl: ""
+url: "https://dirtychai.net"
+
+# Site settings
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap

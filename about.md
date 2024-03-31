@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dirty Chai - About"
+order: 2
 permalink: /about
 ---
 
