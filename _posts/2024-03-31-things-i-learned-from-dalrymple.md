@@ -1,9 +1,11 @@
---
+---
 layout: post
 title: "What I learned from reading and listening to Dalrymple"
---
+date: 2024-03-31
+---
 
 ##  The East India Company was a public for-profit corporation that ruled India for 100 years before being nationalized
+
 - The 'Raj' is the 1800s period when the British government takes over the company and turns India into a traditional colony. I was not aware of this before reading this book
 - Why does it matter to know that the first half of British rule was private and not by the government? It's not like it would have made exploitation any less so. And they eventually took over anyways, right?
     - Knowing that it was a private company that extracted from our land, triggered famines and abused our ancestors neither lessens the pain nor qualifies it. But the foreign company was so successful at exploitation because it was supported by wealthy locals who who were fed up with anarchy and spoke the language of commerce.
@@ -13,10 +15,12 @@ title: "What I learned from reading and listening to Dalrymple"
     - But that a foreign private company, supported by its government, took over people abroad is a theme that is incredibly relevant for today. Chinese firms in Africa, American Big Tech firms taking over our attention spans around the world primarily through the Web, these are examples of the government-private sector relationship that is alive and well
 
 ## Bengal was a wealthy, prosperous region before foreign powers like the Mughals and British bled it dry
-	- Huge exports of raw materials like textiles, spices, agriculture, crafts from Bengal throughout India and to Europe
-	- Skilled weavers who wove cotton into bafthawa, literally 'woven air'
-	- Chittagong seaport
+
+- Huge exports of raw materials like textiles, spices, agriculture, crafts from Bengal throughout India and to Europe
+- Skilled weavers who wove cotton into bafthawa, literally 'woven air'
+- Chittagong seaport
 
 ## Mir Jafar wasn't the World's Worst Traitor and Siraj ud Daula wasn't some noble anti-hero
-    - Clive fought the battle of Plassey because the Jagat Seths promised him and the Company a great deal of money
-	- Jagat Seth started the hundi system
+
+- Clive fought the battle of Plassey because the Jagat Seths promised him and the Company a great deal of money
+- Jagat Seth started the hundi system
