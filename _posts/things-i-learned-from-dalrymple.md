@@ -16,11 +16,11 @@ date: 2024-03-31
 
 ## Bengal was a wealthy, prosperous region before foreign powers like the Mughals and British bled it dry
 
-	- Huge exports of raw materials like textiles, spices, agriculture, crafts from Bengal throughout India and to Europe
-	- Skilled weavers who wove cotton into bafthawa, literally 'woven air'
-	- Chittagong seaport
+- Huge exports of raw materials like textiles, spices, agriculture, crafts from Bengal throughout India and to Europe
+- Skilled weavers who wove cotton into bafthawa, literally 'woven air'
+- Chittagong seaport
 
 ## Mir Jafar wasn't the World's Worst Traitor and Siraj ud Daula wasn't some noble anti-hero
 
-    - Clive fought the battle of Plassey because the Jagat Seths promised him and the Company a great deal of money
-	- Jagat Seth started the hundi system
+- Clive fought the battle of Plassey because the Jagat Seths promised him and the Company a great deal of money
+- Jagat Seth started the hundi system
