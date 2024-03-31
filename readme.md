@@ -1,8 +1,5 @@
----
-title: What I learned from reading and listening to Dalrymple
-author: Wahid Khan
-date: Mar 31, 2024
----
+# What I learned from reading and listening to Dalrymple
+
 - The East India Company was a public for-profit corporation that ruled India for a 100 years before being nationalized.
 	- The 'Raj' is the 1800s period when the British government takes over the company and turns India into a traditional colony. I was not aware of this before reading this book
 	- Why does it matter to know that the first half of British rule was private and not by the government? It's not like it would have made exploitation any less so. And they eventually took over anyways, right?
