@@ -12,14 +12,12 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
         <h3>
           <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h3>
 
         {{ post.summary | markdownify }}
 
-      </li>
     {% endfor %}
   </ul>
 
