@@ -8,5 +8,3 @@ order: 0
 ---
 
 Dirty Chai is a cool site for cool cats.
-
-[Go to the Home Page]({{ '/' | absolute_url }})
