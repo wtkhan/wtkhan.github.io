@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What I learned from reading and listening to Dalrymple"
+summary: "Test summary"
 date: 2024-03-31
 ---
 
