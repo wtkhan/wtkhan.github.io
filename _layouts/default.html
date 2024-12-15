@@ -20,7 +20,7 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
       {% for header_page_ref in site.header_page_refs %}
-        <a href="{{ site.url }}/{{ header_page_ref.downcase }}.html" class="btn">{{ header_page_ref }}</a>
+        <a href="{{ site.url }}/{{ header_page_ref.lower() }}.html" class="btn">{{ header_page_ref }}</a>
       {% endfor %}
     </header>
 
