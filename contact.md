@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+description: ""
 ref: contact
 order: 1
 ---

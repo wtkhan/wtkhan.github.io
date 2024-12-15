@@ -19,7 +19,8 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  <footer class="site-footer">
+    <span class="site-footer-credits">Return to <a href="{{ site.url }}">homepage</a>.</span>
+  </footer>
+
 </article>

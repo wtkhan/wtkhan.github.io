@@ -3,6 +3,7 @@ layout: default
 title: Now
 tagline: What I'm doing now
 permalink: /now.html
+description: ""
 ref: now
 order: 2
 ---
