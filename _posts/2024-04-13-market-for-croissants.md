@@ -2,6 +2,7 @@
 layout: post
 title: "The Markets for Croissants in Dhaka and Atlanta"
 summary: "Trying to understand why my favorite bread treat isn't ubiquitous and high-quality everywhere I go"
+description: " "
 date: 2024-04-13
 ---
 
