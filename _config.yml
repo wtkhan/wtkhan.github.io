@@ -11,4 +11,4 @@ url: "https://dirtychai.net"
 # Site settings
 markdown: kramdown
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['Now', 'About', 'Contact']
