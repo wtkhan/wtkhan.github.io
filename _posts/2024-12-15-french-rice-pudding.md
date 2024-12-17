@@ -3,7 +3,6 @@ layout: post
 title: "French-inspired rice pudding with a quick rose-raspberry compote"
 summary: "A dessert for Swedish Christmas Eve dinners"
 description: " "
-date: 2024-12-15
 ---
 
 Before discovering _riz au lait_, rice puddings felt uniform and boring in every food culture. Spices were the only way to tell bowls of rice and milk apart. Cardamom and rosewater suggest _kheer_, cinnamon and nutmeg hint at _arroz con leche_, and unflavored is a sorry tribute to Nordic puddings in the Midwest.
