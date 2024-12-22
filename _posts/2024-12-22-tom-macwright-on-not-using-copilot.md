@@ -10,8 +10,19 @@ From Tom MacWright's blog [post](https://macwright.com/2024/11/20/not-using-copi
 >
 > Maybe some or none of these things are true - they're emotional responses and gut feelings based on predictions - but they matter nonetheless.
 
-I agree that these things are true and that they matter, and would add two thoughts:
-- By nature, generative output is not guaranteed to be correct. As the user/developer/writer, I am liable for the correctness of that output. This means my tolerances for uncertainty and risk (of loss of reputation, work quality, etc.) are now nontrivial inputs in my project. Why should I deal with anxiety over randomness when I can make my own mistakes _and_ learn from them?
-- Relying on assistants lowers the bar for "good enough" design. While I write code, I am actively refining what I want and making better design choices. When reviewing generated code, I can't do much of this because I am busy validating semantics the LLM's interpretation of my initial design without critical self-examination. Maybe these are growing pains of generative AI software, I just haven't figured out my workflow yet.
+I agree with MacWright that these things are true, and would add two other important reasons for detracting from LLM apps at work:
 
-I want generative AI to help me with my job so I can play outside. The tradeoffs of the current generation aren't worth the products.
+## I am ultimately responsible for AI hallucinations
+
+By nature, generative output is not guaranteed to be correct. The errors can be insidious. As the user/developer/writer, I am liable for the hallucinations in that output. This means my tolerance for risk (of loss of reputation, work quality, etc.) and trust in a particular model are critical factors. Why should I deal with software unpredictability when I can make my own mistakes and learn from them? This is a major question no LLM app company is interested in answering.
+
+As chatbot developers use [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) and other strategies to produce trustworthy output, I wish they'd adopt WolframAlpha's prompt parsing UX. This makes it easier to decide if the output is worth trusting and build a better understanding of the software limitations. It _feels_ like Wolfram developers are humble and care about managing user expectations. Check out the screenshot below for when I ask WolframAlpha for baking directions, a topic outside of its wheelhouse.
+
+![](https://dirtychai.net/images/2024-12-22-wolfram-alpha.png)
+
+The LLM app equivalent of this UX is OpenAI o1 and other models generating chains of thoughts to respond to prompts. Sadly, this feature is also prone to hallucinations and a premium addition over the base offering.
+
+## Copilots make "good enough" the enemy of good
+In programming projects, relying on LLMs lowers the bar for good design. While I write code, I am constantly refining my vision and hopefully making better design choices. But when reviewing generated code, I spend more time validating the model's interpretation of my design rather than critically iterating on it. Maybe these are growing pains of pairing with generative AI software and I just haven't figured out my workflow yet.
+
+I want to trust AI enough to rely on it to work, but the current trade-offs aren’t worth the results, no matter how speedily delivered.

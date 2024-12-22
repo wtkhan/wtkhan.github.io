@@ -3,7 +3,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Dirty Chai
-description: A page on the World Wahid Web
+description: by Wahid Khan
 show_downloads: false
 baseurl: ""
 url: "https://dirtychai.net"
