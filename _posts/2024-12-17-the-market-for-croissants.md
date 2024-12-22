@@ -7,7 +7,7 @@ description: "Why the hell are there six bakeries within a mile of each other?"
 
 Every time I am in Dhaka, I am surprised by the sheer density of cafes and bakeries in the posh areas. Since they all sell practically the same menu of pastries and coffee drinks at similar price points, I was stumped at how each business thinks it could attract and retain customers.
 
-<img src="https://dirtychai.net/images/gulshan-bakeries.png" alt="And this is just the Gulshan intersection!" width="500" height="600"/>
+<img src="https://dirtychai.net/images/gulshan-bakeries.png" alt="And this is just the Gulshan intersection!"/>
 
 My best theory so far is that cafes and bakeries operate in a [monopolistically competitive market](https://en.wikipedia.org/wiki/Monopolistic_competition) and their prime differentiation strategy is offering [Third Places](https://en.wikipedia.org/wiki/Third_place). The market for croissants is really a market for subleasing commercial real estate to individuals. For under $5 or 500 taka&mdash; a nontrivial sum, to be sure, which is why they operate in posh commerical areas&mdash; a customer can take a break from the intensity of the city, maybe catch up with others. Then to switch it up next time, they could check out the space next door.
 
