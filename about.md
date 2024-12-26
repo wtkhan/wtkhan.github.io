@@ -21,4 +21,6 @@ Thanks for visiting!
 
 ## About Wahid
 
-I enjoy working as a product data scientist at [Doximity](doximity.com), a networking platform for clinicians. Before this, I trained and worked in economics and public policy. If interested, my [resume]() has professional details.
+![Botanical building, Balboa Park, San Diego](https://dirtychai.net/images/2024-wahid-at-san-diego.png)
+
+I enjoy working as a product data scientist at [Doximity](doximity.com), a professional networking platform for clinicians. Before this, I trained in economics and worked in public policy analysis. If interested, my [resume](https://dirtychai.net/images/resume-wahid-khan-data-scientist.pdf) has professional details. My opinions on this blog don't reflect my employers' views.
