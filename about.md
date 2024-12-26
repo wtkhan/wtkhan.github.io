@@ -23,4 +23,4 @@ Thanks for visiting!
 
 <img src="https://dirtychai.net/images/2024-wahid-at-san-diego.jpg" width=449>
 
-I enjoy working as a data scientist at [Doximity](doximity.com), a professional networking platform for clinicians. Before this, I trained in economics and worked in public policy analysis. If interested, my [resume](https://dirtychai.net/images/resume-wahid-khan-data-scientist.pdf) has professional details. My opinions on this blog don't reflect my employers' views.
+I enjoy working as a data scientist at [Doximity](https://doximity.com), a professional networking platform for clinicians. Before this, I trained in economics and worked in public policy analysis. If interested, my [resume](https://dirtychai.net/images/resume-wahid-khan-data-scientist.pdf) has professional details. My opinions on this blog don't reflect my employers' views.
