@@ -19,7 +19,7 @@ Thanks for visiting!
 * Editing code and prose: [VS Code](https://code.visualstudio.com/)
 * Drafting notes and scheduling tasks: [Logseq](https://logseq.com) + Incremental Blocks [plugin](https://github.com/mochar/logseq-incremental-blocks)
 
-## About Wahid
+## About Wahid Khan
 
 <img src="https://dirtychai.net/images/2024-wahid-at-san-diego.jpg" width=449>
 
