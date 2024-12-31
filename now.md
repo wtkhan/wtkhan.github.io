@@ -13,12 +13,12 @@ order: 2
 ## Writing
 
 * Paperwork for removing conditions from my US permanent residency 🤞
-* Marginalia on Christmas recipes
-* Statistical simulations to answer (frankly, basic) questions about experiment design
+* Marginalia on recipes
+* Helper scripts to use fully offline LLMs for revising blog drafts
 
 ## Learning
 
-* Car maintenance and troubleshooting using the owner's manual and flashcards
+* Car maintenance and troubleshooting using the owner's manual and Anki flashcards
 <!-- * Better non-job time management -->
 
 ## Reading
@@ -34,6 +34,6 @@ I traveled to the United Kingdom, specifically in London, Bath and the Lake Dist
 
 * Shepherd's pie
 * Chicken tarragon
-* Turkey tacos and store-bought guacamole
+* Turkey chipotle tacos and guacamole
 
 _This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one too!](https://nownownow.com/about)_
