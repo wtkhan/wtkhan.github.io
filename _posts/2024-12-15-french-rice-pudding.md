@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "French-inspired rice pudding with a quick rose-raspberry compote"
-summary: "A dessert for Swedish Christmas Eve dinners"
+summary: "A dessert for Christmas Eve dinners"
 description: " "
 ---
 
-Before discovering _riz au lait_, rice puddings felt uniform and boring in every food culture. Spices were the only way to tell bowls of rice and milk apart. Cardamom and rosewater suggest _kheer_, cinnamon and nutmeg hint at _arroz con leche_, and unflavored is a sorry tribute to Nordic puddings in the Midwest.
+I love *riz au lait* for its decadent custard base. Adding egg yolks, heavy cream and butter transforms a lean journeyman pudding into a paunchy contented retiree. A custard base makes a rice pudding more of an ice cream, allowing for an exploration of familiar accompaniments beyond seasoning.
 
-I love riz au lait for its decadent custard base. Adding egg yolks, heavy cream and butter transforms a lean journeyman pudding into a paunchy contented retiree. A custard base makes a rice pudding more of an ice cream, allowing for an exploration of familiar accompaniments beyond seasoning.
-
-Below is my current favorite take on riz au lait. I pair it with  a rose-flavored raspberry compote that is inspired by the [Ispahan macaron](https://www.pierreherme.com/fr/ispahan-entremets.html). I serve them at the end of my in-laws' Swedish-inspired Christmas Eve feast.
+Below is my current favorite take on riz au lait. I pair it with  a rose-flavored raspberry compote that is inspired by the [Ispahan macaron](https://www.pierreherme.com/fr/ispahan-entremets.html). I serve them at the end of my in-laws' Swedish Christmas Eve feast.
 
 ## Ingredients and notes
 **Serves 8 to 12**
@@ -19,17 +17,17 @@ I adapted from Bruno Albouze's riz au lait [recipe](https://www.youtube.com/watc
 * 500ml water
 * Pinch of salt
 * 140g rice
-    * Albouze recommends Arborio rice for the 'dessert risotto' feel. I go with Basmati because I have it on hand and am more familiar with it in kheer
+    * Albouze recommends Arborio rice for the risotto-like mouthfeel. I go with Basmati because I have it on hand and am more familiar with it in kheer
 * 1.2l whole milk
-    * I’ve experimented with substituting some of the milk for half-and-half for a richer pudding, but it makes the cooking process harder to judge. Stick with whole milk for a smoother experience
+    * I’ve experimented with substituting 50% of the milk for half-and-half. This makes a richer and thicker pudding, but it makes the rice's cooking harder to judge. Stick with whole milk for a smoother experience
 * 10g vanilla paste
 * 100g granulated sugar
-    * Albouze's sugar amount may seem low to American cooks, but it really is the perfect amount. If anything, using a sweet sauce means one could further reduce sugar by 5%-10%. Reducing more than 10% may mean insufficient sugar for beating yolks
+    * Albouze's sugar amount may seem low to American cooks, but it really is the perfect amount. If anything, pairing with a raspberry sauce means one could further reduce sugar by 5%-10%. Reducing any more may mean insufficient sugar for beating yolks
 * 2 egg yolks
 * 60g butter
     * Kerrygold or better, please!
 * 250g whipped cream
-    * Albouze says this is optional, but the pudding would be incomplete without it
+    * If you go for the 50/50 milk and half-and-half route above, the whipped cream becomes necessary to lighten up the thick rice pudding base
 
 ### Rose-raspberry compote
 * 70g raspberry preserves
@@ -60,13 +58,13 @@ This technique makes sense for removing excess starch from varieties like Arbori
 * Transfer to a container, cover with plastic wrap, and chill for at least a few hours.
 
 #### Assembly
-* Whip cream to soft peaks
+* If using it, whip the cream to soft peaks
 * Remove plastic wrap off of custard and loosen it by whipping it
-* Fold in the whipped cream before serving. Avoid adding it too far in advance. Otherwise, the pudding might dry out.
+* Fold in the whipped cream before serving. Avoid folding it in too far in advance. Otherwise, the pudding might dry out.
 
 ### Rose-raspberry compote
 
 * Mix the raspberry preserves with hot water until you reach your desired sauce consistency.
 * Stir in the rosewater and salt
 * Add fresh raspberries (and mash a few if you prefer a chunkier compote)
-* Chill before serving.
+* Chill for an hour or two before serving.

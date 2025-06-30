@@ -33,7 +33,7 @@ I traveled to the United Kingdom, specifically in London, Bath and the Lake Dist
 ## Meal rotation
 
 * Shepherd's pie
-* Chicken tarragon
-* Turkey chipotle tacos and guacamole
+* [Chicken tarragon](https://dirtychai.net/2025/02/15/chicken-tarragon.html)
+* Turkey tacos and guacamole
 
 _This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one too!](https://nownownow.com/about)_
