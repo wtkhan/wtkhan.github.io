@@ -19,16 +19,11 @@ order: 2
 ## Learning
 
 * Car maintenance and troubleshooting using the owner's manual and Anki flashcards
-<!-- * Better non-job time management -->
 
 ## Reading
 
 * [The 99% Invisible City](https://99percentinvisible.org/book/) by Mars and Kohlstedt
 * Stephen Wolfram's impressive [insanity](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
-
-<!-- ## Traveling
-
-I traveled to the United Kingdom, specifically in London, Bath and the Lake District. -->
 
 ## Meal rotation
 
