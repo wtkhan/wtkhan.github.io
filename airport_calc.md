@@ -1,28 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Airport Arrival Calculator</title>
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
-    type="text/css" crossorigin>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="stylesheet" href="/assets/css/style.css?v=7cb0bafa97e65edfa5157e9eb7f637555a63e58c">
+---
+layout: default
+title: Now
+tagline: What I'm doing now
+permalink: /now.html
+description: " "
+ref: now
+order: 2
+---
 
-</head>
-<body>
-
-<header class="page-header" role="banner">
-  <h1 class="project-name">Airport Arrival Calculator</h1>
-  <h2 class="project-tagline">Find the best time to leave for your flight</h2>
-
-  <a href="https://dirtychai.net" class="btn">home</a>
-  <a href="https://dirtychai.net/now.html" class="btn">now</a>
-  <a href="https://dirtychai.net/about.html" class="btn">about</a>
-  <a href="https://dirtychai.net/contact.html" class="btn">contact</a>
-</header>
+{% raw %}
 
 <form id="calcForm" autocomplete="off">
   <div class="form-group">
@@ -254,5 +240,5 @@ window.addEventListener('load', runTests);
   <a href="https://www.natesilver.net/p/how-soon-should-you-arrive-at-the-airport" target="_blank">
     post</a> and vibe-coded with <a href="https://ollama.com/library/gpt-oss" target="_blank"> GPT-OSS</a>.
 </footer>
-</body>
-</html>
+
+{% endraw %}
