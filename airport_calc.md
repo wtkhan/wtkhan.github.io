@@ -8,6 +8,8 @@ ref: now
 order: 2
 ---
 
+## When should you leave for the airport?
+
 {% raw %}
 
 <style>
@@ -32,7 +34,7 @@ order: 2
 
 <br>
   <div class="form-group">
-    <label for="baseline">Baseline minutes before departure (default is 45):</label>
+    <label for="baseline">When would you like to be at your gate? This is the baseline in minutes before departure (default is 45):</label>
     <input type="number" id="baseline" min="1" value="45" required>
   </div>
 
@@ -48,7 +50,7 @@ order: 2
   <div class="form-group">
     <label>If using a car, how are you getting to the airport? (adds time)</label>
     <div class="radio-group">
-      <label><input type="radio" name="transport" value="rideshare">Rideshare</label>
+      <label><input type="radio" name="transport" value="rideshare">Rideshare (+15 min)</label>
       <label><input type="radio" name="transport" value="car" checked>Personal Car (+5 min)</label>
       <label><input type="radio" name="transport" value="no" checked>Not applicable (0 min)</label>
     </div>
@@ -67,10 +69,20 @@ order: 2
 <br>
 
   <div class="form-group">
-    <label>Do you have slow movers (children, seniors) in your group? (adds time)</label>
+    <label>Do you have slow movers (young children or seniors) in your group? (adds time)</label>
     <div class="radio-group">
       <label><input type="radio" name="slowMovers" value="yes">Yes (+10 min)</label>
       <label><input type="radio" name="slowMovers" value="no" checked>No (0 min)</label>
+    </div>
+  </div>
+
+<br>
+
+  <div class="form-group">
+    <label>Do you need to print tickets or check bags at the counter? (adds time)</label>
+    <div class="radio-group">
+      <label><input type="radio" name="checkin" value="yes">Yes (+20 min)</label>
+      <label><input type="radio" name="checkin" value="no" checked>No (0 min)</label>
     </div>
   </div>
 
@@ -83,17 +95,6 @@ order: 2
       <label><input type="radio" name="expedited" value="no" checked>No (0 min)</label>
     </div>
   </div>
-<br>
-
-
-  <div class="form-group">
-    <label>Do you need to print tickets or check bags at the counter? (adds time)</label>
-    <div class="radio-group">
-      <label><input type="radio" name="checkin" value="yes">Yes (+20 min)</label>
-      <label><input type="radio" name="checkin" value="no" checked>No (0 min)</label>
-    </div>
-  </div>
-
 <br>
 
   <div class="form-group">
