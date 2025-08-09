@@ -10,10 +10,23 @@ order: 2
 
 {% raw %}
 
+<style>
+  /* 1️⃣  Space the radio buttons and align the text */
+  .radio-group label {
+    display: flex;            /* line up the radio button with its label text */
+    align-items: center;      /* vertical centering */
+    margin-bottom: .6rem;     /* space between each radio option */
+    cursor: pointer;          /* nicer UX */
+  }
+  .radio-group input[type="radio"] {
+    margin-right: .6rem;      /* gap between the button and the text */
+    flex-shrink: 0;           /* keep the button from shrinking */
+  }
+</style>
+
 <form id="calcForm" autocomplete="off">
   <div class="form-group">
     <label for="flightDateTime">Flight date & time:</label>
-
     <input type="datetime-local" id="flightDateTime" required>
   </div>
 
@@ -26,19 +39,18 @@ order: 2
 <br>
 
   <div class="form-group">
-    <label for="commute">In minutes, what is your estimated commute to the airport? (default 20)</label>
-
+    <label for="commute">In minutes, what is your estimated commute to the airport? Add public transit time here. (default 20)</label>
     <input type="number" id="commute" min="0" value="20" required>
   </div>
 
 <br>
 
   <div class="form-group">
-    <label>How are you getting to the airport? (adds time)</label>
-
+    <label>If using a car, how are you getting to the airport? (adds time)</label>
     <div class="radio-group">
-      <label><input type="radio" name="transport" value="rideshare">Rideshare / Public Transit (+15 min)</label>
+      <label><input type="radio" name="transport" value="rideshare">Rideshare</label>
       <label><input type="radio" name="transport" value="car" checked>Personal Car (+5 min)</label>
+      <label><input type="radio" name="transport" value="no" checked>Not applicable (0 min)</label>
     </div>
   </div>
 
@@ -46,18 +58,16 @@ order: 2
 
   <div class="form-group">
     <label>Are you heading to a busy airport (JFK, ORD, ATL)? (adds time)</label>
-
     <div class="radio-group">
       <label><input type="radio" name="busyAirport" value="yes">Yes (+20 min)</label>
       <label><input type="radio" name="busyAirport" value="no" checked>No (+10 min)</label>
     </div>
   </div>
-<br>
 
+<br>
 
   <div class="form-group">
     <label>Do you have slow movers (children, seniors) in your group? (adds time)</label>
-
     <div class="radio-group">
       <label><input type="radio" name="slowMovers" value="yes">Yes (+10 min)</label>
       <label><input type="radio" name="slowMovers" value="no" checked>No (0 min)</label>
@@ -68,7 +78,6 @@ order: 2
 
   <div class="form-group">
     <label>Do you have expedited security (TSA PreCheck, CLEAR)? (subtracts time)</label>
-
     <div class="radio-group">
       <label><input type="radio" name="expedited" value="yes">Yes (-5 min)</label>
       <label><input type="radio" name="expedited" value="no" checked>No (0 min)</label>
@@ -79,7 +88,6 @@ order: 2
 
   <div class="form-group">
     <label>Do you need to print tickets or check bags at the counter? (adds time)</label>
-
     <div class="radio-group">
       <label><input type="radio" name="checkin" value="yes">Yes (+20 min)</label>
       <label><input type="radio" name="checkin" value="no" checked>No (0 min)</label>
@@ -90,7 +98,6 @@ order: 2
 
   <div class="form-group">
     <label>Do you want to get coffee or food at the airport? (adds time)</label>
-
     <div class="radio-group">
       <label><input type="radio" name="coffee" value="yes">Yes (+20 min)</label>
       <label><input type="radio" name="coffee" value="no" checked>No (0 min)</label>
@@ -110,7 +117,7 @@ order: 2
 const CONFIG = {
   baselineDefault: 45,
   commuteDefault: 20,
-  transportAdd: { rideshare: 15, car: 5 },
+  transportAdd: { rideshare: 15, car: 5, no:0 },
   busyAdd: { yes: 20, no: 10 },
   slowAdd: { yes: 10, no: 0 },
   expeditedSub: { yes: 5, no: 0 },
