@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Now
-tagline: What I'm doing now
-permalink: /now.html
+title: Airport Departure Calculator
+tagline: When should you leave for the aiport?
+permalink: /airport_calc.html
 description: " "
 ref: now
 order: 2
