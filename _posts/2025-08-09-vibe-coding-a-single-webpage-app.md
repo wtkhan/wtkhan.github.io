@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Writing my first web app"
+summary: "I used GPT-OSS to write a small app for a real need and I liked it!"
+---
+
+Nate Silver wrote a [post](https://www.natesilver.net/p/how-soon-should-you-arrive-at-the-airport) describing his heuristics for calculating when to leave for the aiport. Here's the key quote explaining his motivation, but be sure to check out his full post:
+
+> [T]he biggest problem with [TSA's recommended] two-hour rule is that it’s one-size-fits-all. There are circumstances where you’ll really want to budget that much time, or even more, but others when you can pull up to the gate 45 minutes before departure and be just fine.
+
+Silver made a spreadsheet to account for things like the commute and having to check bags to adjust the departure time for a specific airport. We all do some version of his accounting in our heads but don't bother to play around with individual parameters. Then the anxiety about the uncertainty sets in and we leave earlier for the airport than we'd like. The screenshot of the spreadsheet at the bottom of the post convinced me that if we could see each parameter on a screen, then we'd feel more comfortable with our choices.
+
+This is why I wrote my version of the [airport departure calculator](https://dirtychai.net/airport_calc). 'Write' is a strong claim because I don't know Javascript. I used OpenAI's 20B [GPT-OSS model](https://ollama.com/library/gpt-oss) to generate code. But, to echo Simon Willison's [point](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/#:~:text=When%20it,understanding%20how%20it%20works) on vibe-coding with responsibility, I know enough of programming to demand things like small functions, configs for constants and simple unit tests in my prompts. By length of time, the main challenge was figuring out how to host the Javascript code on my GitHub Pages static blog. I learnt about `{% raw %} {% endraw %}` templating from GPT-OSS to embed logic in a Markdown file. When prompted, the model showed the parts of the styling markup I'd need to include in the templated code for a cleaner look and without overriding the blog's basic theme.
+
+The calculator is great! I see myself using it for future trips. Compared to Silver, I use fewer heuristics and don't account for my risk appetite for missing a flight. I know I never want to chance missing a flight, so I'd rather start with a generous baseline of 45-75 minutes, depending on the size of the airport. Playing around with the app for familiar airports and flights showed me my gut-based estimates were higher than I needed, but not wildly off. The main issue with this app is that the anecdotal input estimates may not align with other folks' experiences or comfort levels. I want to continue dogfooding it before I tweak the basic setup with either more variables or fluidity of inputs.
+
+The main pain point in this short development process was that GPT-OSS would simply not respond to some prompts. Some times there was a long wait with the typing indicator between prompt and response, and other times there was nothing. I had to restart Ollama and open a new session to fix this. This is why I suspect that these are issues with the Ollama client app and its handling of LLMs during pauses in sessions. A minor issue was that GPT-OSS's first attempt did not have logic for handling invalid date, time and duration inputs. Fortunately, unit tests and QAing addressed this issue. Copy-pasting code between Ollama and VS Code multiple times made me appreciate why folks prefer coding LLMs inside their IDEs.
+
+Overall, I am happy with my first foray into vibe coding. GPT-OSS is a capable enough model for this project. I had an inspiration and brought it to the Web in under 24 hours. I am cautiously optimistic that I can continue to vibe-code my way through this project and more complex ones over time.
