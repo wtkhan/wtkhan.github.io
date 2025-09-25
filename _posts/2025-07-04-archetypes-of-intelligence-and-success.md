@@ -44,8 +44,8 @@ As an adult, I still get confused looks from family members when I share interes
 
 ---
 
-I asked my US-born wife, Allison, if American society has similar heuristics and behavioral traits in an attempt to recognize intelligence. She thinks the ability to conduct research on complex topics and then communicate ideas in TED-talk-style accessible ways as one possibly popular measure of ability.
+I asked my US-born wife if American society has similar heuristics and behavioral traits in an attempt to recognize intelligence. She thinks the ability to conduct research on complex topics and then communicate ideas in TED-talk-style accessible ways as one possibly popular measure of ability.
 
-I am sure that neither my nor Allison's experience is representative of our countries or all of our cultures. South Asians growing up in the US today in a rich household have, for better or worse, entirely different expectations imposed on them. Perhaps intelligence is not emphasized as much as other inputs (money, network, etc.).
+I am sure that neither my nor my wife's experience is representative of our countries or all of our cultures. South Asians growing up in the US today in a rich household have, for better or worse, entirely different expectations imposed on them. Perhaps intelligence is not emphasized as much as other inputs (money, network, etc.).
 
 I'd love to hear from other folks and learn their archetypes around brains and success. Please reach out with your ideas and their origin stories. These ideas are powerful and shape our choices, relationships and outcomes.Engaging with them could teach us something about ourselves.
