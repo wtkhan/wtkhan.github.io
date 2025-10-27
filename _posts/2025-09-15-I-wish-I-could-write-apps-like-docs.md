@@ -4,6 +4,12 @@ title: "I wish I could write apps the way I write docs"
 summary: "I wrote out this fantasy and got sad at the implications"
 ---
 
+**UPDATE (Oct 2025)**: Since publishing this post, I came across Alan Kay and team's government-funded project ([docs](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)) to reinvent software development. The final project report discusses their proofs of concept for an integrated suite of applications with fewer and more expressive lines of code. They describe the suite as follows:
+
+> It has "universal documents" that can model all document forms [...] and an independent repertoire of ways to find, fetch, send, save, broadcast, etc., the documents. This subsumes the normal scattered "productivity suite" intractable stovepipes often provided instead of a truly integrated system.
+
+The final report from this project was 13 years ago, so I wouldn't hold my breath for a viable product today. This team hasn't released STEPS yet for the open-source development community. I can't pretend to understand the report well enough to claim that readers could build STEPS in a GitHub repo right away. Still, and not to be a Pollyanna, it's energizing to learn that some of the smartest folks on the planet considered this question and got funding for it!
+
 ## The Fantasy
 
 Imagine that the browser on your device was an app for natively browsing, creating _and_ publishing pages of dynamic software. There'd be no need for a separate IDE or editor to author interactive programs to view them in the browser.
